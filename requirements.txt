@@ -1,0 +1,10 @@
+praw
+snscrape
+pytrends
+pandas
+numpy
+scipy
+streamlit
+python-dotenv
+tqdm
+altair
